@@ -1,0 +1,9 @@
+{
+  "platformName": "ios",
+  "appium:automationName": "XCUITest",
+  "browserName": "safari",
+  "appium:deviceName": "iPhone 13",
+  "appium:platformVersion": "15.0",
+  "appWaitDuration": "30000",
+  "appium:udid": "E0422D9C-A0B0-428B-8F69-EBFCC77D9B28"
+}

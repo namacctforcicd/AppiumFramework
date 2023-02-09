@@ -1,0 +1,63 @@
+[2023-02-03] [08:13:50] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-03] [08:14:10] [ INFO] [MobileActions.java:initMobileDriver:38] - IOS driver initialized
+[2023-02-03] [08:14:10] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-03] [08:14:13] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-03] [08:14:14] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-03] [08:14:15] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-03] [08:14:16] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-03] [08:14:17] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-03] [08:14:18] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-03] [08:16:10] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-03] [08:16:20] [ INFO] [MobileActions.java:initMobileDriver:38] - IOS driver initialized
+[2023-02-03] [08:16:20] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-03] [08:23:32] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-03] [08:23:42] [ INFO] [MobileActions.java:initMobileDriver:38] - IOS driver initialized
+[2023-02-03] [08:23:42] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-03] [08:23:47] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-03] [08:23:48] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-03] [08:23:49] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-03] [08:23:50] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-03] [08:23:51] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-03] [08:23:52] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-03] [08:32:16] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-03] [08:32:28] [ INFO] [MobileActions.java:initMobileDriver:38] - IOS driver initialized
+[2023-02-03] [08:32:28] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-03] [08:32:30] [ INFO] [MobileActions.java:switchToNativeView:490] -  ---> Print the current view = WEBVIEW_68783.1
+[2023-02-03] [08:32:30] [ INFO] [MobileActions.java:switchToNativeView:496] -  *** SWITCHED TO NATIVE VIEW *** 
+[2023-02-03] [08:32:30] [ INFO] [MobileActions.java:switchToNativeView:499] -  ---> Now the current view = NATIVE_APP
+[2023-02-03] [08:32:30] [ INFO] [MobileActions.java:switchToWebView:476] -  ---> Print the current view = NATIVE_APP
+[2023-02-03] [08:32:30] [ INFO] [MobileActions.java:switchToWebView:482] -  *** SWITCHED TO WEB VIEW *** 
+[2023-02-03] [08:32:30] [ INFO] [MobileActions.java:switchToWebView:485] -  ---> Now the current view = WEBVIEW_68783.1
+[2023-02-03] [08:32:32] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-03] [08:32:33] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-03] [08:32:34] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-03] [08:32:35] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-03] [08:32:36] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-03] [08:32:37] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-03] [08:37:55] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-03] [08:38:10] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-02-03] [08:38:10] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-03] [08:38:11] [ INFO] [MobileActions.java:switchToNativeView:490] -  ---> Print the current view = CHROMIUM
+[2023-02-03] [08:38:11] [ INFO] [MobileActions.java:switchToNativeView:496] -  *** SWITCHED TO NATIVE VIEW *** 
+[2023-02-03] [08:38:11] [ INFO] [MobileActions.java:switchToNativeView:499] -  ---> Now the current view = NATIVE_APP
+[2023-02-03] [08:38:11] [ INFO] [MobileActions.java:switchToWebView:476] -  ---> Print the current view = NATIVE_APP
+[2023-02-03] [08:38:11] [ INFO] [MobileActions.java:switchToWebView:485] -  ---> Now the current view = NATIVE_APP
+[2023-02-03] [08:46:50] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-03] [08:46:57] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-02-03] [08:46:57] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-03] [08:46:59] [ INFO] [MobileActions.java:switchToNativeView:495] -  ---> Requested to changed the view to -> NATIVE 
+[2023-02-03] [08:46:59] [ INFO] [MobileActions.java:switchToNativeView:497] -  ---> Print the current view = CHROMIUM
+[2023-02-03] [08:46:59] [ INFO] [MobileActions.java:switchToNativeView:503] -  *** SWITCHED TO NATIVE VIEW *** 
+[2023-02-03] [08:46:59] [ INFO] [MobileActions.java:switchToNativeView:506] -  Request completed
+[2023-02-03] [08:46:59] [ INFO] [MobileActions.java:switchToNativeView:507] -  ---> Now the current view = NATIVE_APP
+[2023-02-03] [08:46:59] [ INFO] [MobileActions.java:switchToWebView:475] -  ---> Requested to changed the view to -> WEB 
+[2023-02-03] [08:46:59] [ INFO] [MobileActions.java:switchToWebView:477] -  ---> Print the current view = NATIVE_APP
+[2023-02-03] [08:46:59] [ INFO] [MobileActions.java:switchToWebView:487] -  *** SWITCHED TO CHROMIUM VIEW *** 
+[2023-02-03] [08:46:59] [ INFO] [MobileActions.java:switchToWebView:490] -  Request completed
+[2023-02-03] [08:46:59] [ INFO] [MobileActions.java:switchToWebView:491] -  ---> Now the current view = CHROMIUM
+[2023-02-03] [08:47:02] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-03] [08:47:03] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-03] [08:47:04] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-03] [08:47:05] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-03] [08:47:06] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-03] [08:47:07] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds

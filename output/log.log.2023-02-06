@@ -1,0 +1,13 @@
+[2023-02-06] [09:06:25] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-06] [09:06:54] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-06] [09:07:12] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-02-06] [09:07:12] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-06] [09:07:12] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-02-06] [09:07:12] [ INFO] [MobileActions.java:getElementTextByAttribute:178] - Get element text by attribute 'text': Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-02-06] [09:07:14] [ INFO] [LoginPage.java:getTextFrom_LoginButton:129] - Get text on LOGIN button: LOGIN
+[2023-02-06] [09:07:35] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-06] [09:07:44] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-02-06] [09:07:44] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-06] [09:07:44] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-02-06] [09:07:44] [ INFO] [MobileActions.java:getElementTextByAttribute:178] - Get element text by attribute 'text': Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-02-06] [09:07:46] [ INFO] [LoginPage.java:getTextFrom_LoginButton:129] - Get text on LOGIN button: LOGIN

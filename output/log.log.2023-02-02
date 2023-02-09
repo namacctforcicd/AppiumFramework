@@ -1,0 +1,231 @@
+[2023-02-02] [08:16:26] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-02] [08:16:45] [ INFO] [MobileActions.java:initMobileDriver:38] - IOS driver initialized
+[2023-02-02] [08:16:45] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-02] [08:16:47] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-02] [08:16:48] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-02] [08:16:49] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-02] [08:16:50] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-02] [08:16:51] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-02] [08:16:52] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-02] [08:21:03] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-02] [08:21:08] [ INFO] [MobileActions.java:initMobileDriver:38] - IOS driver initialized
+[2023-02-02] [08:21:08] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-02] [08:21:09] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-02] [08:21:10] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-02] [08:21:11] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-02] [08:21:12] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-02] [08:21:13] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-02] [08:21:14] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-02] [08:22:06] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-02] [08:22:09] [ INFO] [MobileActions.java:initMobileDriver:38] - IOS driver initialized
+[2023-02-02] [08:22:09] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-02] [08:22:10] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-02] [08:22:11] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-02] [08:22:12] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-02] [08:22:13] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-02] [08:22:14] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-02] [08:22:15] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-02] [08:24:55] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-02] [08:24:58] [ INFO] [MobileActions.java:initMobileDriver:38] - IOS driver initialized
+[2023-02-02] [08:24:58] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-02] [08:24:59] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-02] [08:25:00] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-02] [08:25:01] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-02] [08:25:02] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-02] [08:25:03] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-02] [08:25:04] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-02] [08:26:12] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-02] [08:26:16] [ INFO] [MobileActions.java:initMobileDriver:38] - IOS driver initialized
+[2023-02-02] [08:26:16] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-02] [08:26:18] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-02] [08:26:19] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-02] [08:26:20] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-02] [08:26:21] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-02] [08:26:22] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-02] [08:26:23] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-02] [08:27:33] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-02] [08:27:37] [ INFO] [MobileActions.java:initMobileDriver:38] - IOS driver initialized
+[2023-02-02] [08:27:37] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-02] [08:27:38] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-02] [08:27:39] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-02] [08:27:40] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-02] [08:27:41] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-02] [08:27:42] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-02] [08:27:43] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-02] [08:28:21] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-02] [08:28:26] [ INFO] [MobileActions.java:initMobileDriver:38] - IOS driver initialized
+[2023-02-02] [08:28:26] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-02] [08:28:27] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-02] [08:28:28] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-02] [08:28:29] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-02] [08:28:30] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-02] [08:28:31] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-02] [08:28:32] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-02] [08:29:52] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-02] [08:29:56] [ INFO] [MobileActions.java:initMobileDriver:38] - IOS driver initialized
+[2023-02-02] [08:29:56] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-02] [08:29:57] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-02] [08:29:58] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-02] [08:29:59] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-02] [08:30:00] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-02] [08:30:01] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-02] [08:30:02] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-02] [08:32:18] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-02] [08:32:22] [ INFO] [MobileActions.java:initMobileDriver:38] - IOS driver initialized
+[2023-02-02] [08:32:22] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-02] [08:32:23] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-02] [08:32:24] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-02] [08:32:25] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-02] [08:32:26] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-02] [08:32:27] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-02] [08:32:28] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-02] [08:36:01] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-02] [08:36:04] [ INFO] [MobileActions.java:initMobileDriver:38] - IOS driver initialized
+[2023-02-02] [08:36:04] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-02] [08:36:05] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-02] [08:36:06] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-02] [08:36:07] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-02] [08:36:08] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-02] [08:36:09] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-02] [08:36:10] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-02] [08:45:17] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-02] [08:45:21] [ INFO] [MobileActions.java:initMobileDriver:38] - IOS driver initialized
+[2023-02-02] [08:45:21] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-02] [08:45:23] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-02] [08:45:24] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-02] [08:45:25] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-02] [08:45:26] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-02] [08:45:27] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-02] [08:45:28] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-02] [08:52:32] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-02] [08:52:40] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-02-02] [08:52:40] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-02] [08:56:38] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-02] [08:56:43] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-02-02] [08:56:43] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-02] [08:59:37] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-02] [08:59:44] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-02-02] [08:59:44] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-02] [09:00:33] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-02] [09:00:39] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-02-02] [09:00:39] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-02] [09:02:33] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-02] [09:02:41] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-02-02] [09:02:41] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-02] [09:02:42] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-02] [09:02:43] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-02] [09:02:44] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-02] [09:02:45] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-02] [09:02:46] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-02] [09:02:47] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-02] [09:03:18] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-02] [09:03:26] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-02-02] [09:03:26] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-02] [09:03:27] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-02] [09:03:28] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-02] [09:03:29] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-02] [09:03:30] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-02] [09:03:31] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-02] [09:03:32] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-02] [09:05:20] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-02] [09:05:26] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-02-02] [09:05:26] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-02] [09:05:27] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-02] [09:05:28] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-02] [09:05:29] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-02] [09:05:30] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-02] [09:05:31] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-02] [09:05:32] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-02] [09:06:46] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-02] [09:06:53] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-02-02] [09:06:53] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-02] [09:06:54] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-02] [09:06:55] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-02] [09:06:56] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-02] [09:06:57] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-02] [09:06:58] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-02] [09:06:59] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-02] [09:09:06] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-02] [09:09:12] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-02-02] [09:09:12] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-02] [09:12:30] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-02] [09:12:37] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-02-02] [09:12:37] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-02] [09:12:39] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-02] [09:12:40] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-02] [09:12:41] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-02] [09:12:42] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-02] [09:12:43] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-02] [09:12:44] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-02] [09:13:03] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-02] [09:13:09] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-02-02] [09:13:09] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-02] [09:13:12] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-02] [09:13:13] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-02] [09:13:14] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-02] [09:13:15] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-02] [09:13:16] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-02] [09:13:17] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-02] [09:13:49] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-02] [09:13:56] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-02-02] [09:13:56] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-02] [09:13:58] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-02] [09:13:59] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-02] [09:14:00] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-02] [09:14:01] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-02] [09:14:02] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-02] [09:14:03] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-02] [09:15:05] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-02] [09:15:12] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-02-02] [09:15:12] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-02] [09:15:15] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-02] [09:15:16] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-02] [09:15:17] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-02] [09:15:18] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-02] [09:15:19] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-02] [09:15:20] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-02] [09:15:22] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-02] [09:15:23] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-02] [09:15:24] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-02] [09:15:25] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-02] [09:15:26] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-02] [09:15:27] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-02] [09:17:07] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-02] [09:17:16] [ INFO] [MobileActions.java:initMobileDriver:38] - IOS driver initialized
+[2023-02-02] [09:17:16] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-02] [09:17:18] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-02] [09:17:19] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-02] [09:17:20] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-02] [09:17:21] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-02] [09:17:22] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-02] [09:17:23] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-02] [09:17:47] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-02] [09:18:00] [ INFO] [MobileActions.java:initMobileDriver:38] - IOS driver initialized
+[2023-02-02] [09:18:00] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-02] [09:18:02] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-02] [09:18:03] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-02] [09:18:04] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-02] [09:18:05] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-02] [09:18:06] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-02] [09:18:07] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-02] [09:18:09] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-02] [09:18:10] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-02] [09:18:11] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-02] [09:18:12] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-02] [09:18:13] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-02] [09:18:14] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-02] [09:19:05] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-02] [09:19:13] [ INFO] [MobileActions.java:initMobileDriver:38] - IOS driver initialized
+[2023-02-02] [09:19:13] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-02] [09:19:16] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-02] [09:19:17] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-02] [09:19:18] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-02] [09:19:19] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-02] [09:19:20] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-02] [09:19:21] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-02] [09:19:23] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 5 Seconds
+[2023-02-02] [09:19:24] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 4 Seconds
+[2023-02-02] [09:19:25] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-02] [09:19:26] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-02] [09:19:27] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-02] [09:19:28] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds

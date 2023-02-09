@@ -1,0 +1,250 @@
+[2023-01-25] [08:27:55] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-01-25] [08:28:04] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-01-25] [08:28:04] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-01-25] [08:28:04] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-01-25] [08:28:04] [ INFO] [MobileActions.java:waitFor_ElementToBeDisplayed:165] - Waiting and validating isElementDisplayed on screen: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:28:04] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:28:04] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:28:05] [ INFO] [LoginPage.java:enterText_UserNameTextField:74] - Enter username in the text field: standard_user
+[2023-01-25] [08:28:05] [ INFO] [MobileActions.java:waitFor_ElementAndType:140] - Type in element: Located by By.chained({By.AccessibilityId: test-Username}) text: standard_user
+[2023-01-25] [08:28:05] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Username})
+[2023-01-25] [08:28:05] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:28:05] [ INFO] [LoginPage.java:enterText_PasswordTextField:85] - Enter password in the text field: secret_sauce
+[2023-01-25] [08:28:05] [ INFO] [MobileActions.java:typeOn_Element:120] - Type in element: Located by By.chained({By.AccessibilityId: test-Password}) text: secret_sauce
+[2023-01-25] [08:28:06] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:28:10] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-01-25] [08:28:10] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-01-25] [08:28:10] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:28:10] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-LOGOUT})
+[2023-01-25] [08:28:10] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-LOGOUT})
+[2023-01-25] [08:28:10] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:28:35] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-01-25] [08:28:41] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-01-25] [08:28:41] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-01-25] [08:28:41] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-01-25] [08:28:41] [ INFO] [MobileActions.java:waitFor_ElementToBeDisplayed:165] - Waiting and validating isElementDisplayed on screen: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:28:41] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:28:41] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:28:42] [ INFO] [LoginPage.java:enterText_UserNameTextField:74] - Enter username in the text field: standard_user
+[2023-01-25] [08:28:42] [ INFO] [MobileActions.java:waitFor_ElementAndType:140] - Type in element: Located by By.chained({By.AccessibilityId: test-Username}) text: standard_user
+[2023-01-25] [08:28:42] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Username})
+[2023-01-25] [08:28:42] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:28:43] [ INFO] [LoginPage.java:enterText_PasswordTextField:85] - Enter password in the text field: secret_sauce
+[2023-01-25] [08:28:43] [ INFO] [MobileActions.java:typeOn_Element:120] - Type in element: Located by By.chained({By.AccessibilityId: test-Password}) text: secret_sauce
+[2023-01-25] [08:28:44] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:28:48] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-01-25] [08:28:48] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-01-25] [08:28:48] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:28:48] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-LOGOUT})
+[2023-01-25] [08:28:48] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-LOGOUT})
+[2023-01-25] [08:28:48] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:29:13] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-01-25] [08:29:20] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-01-25] [08:29:20] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-01-25] [08:29:20] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-01-25] [08:29:20] [ INFO] [MobileActions.java:waitFor_ElementToBeDisplayed:165] - Waiting and validating isElementDisplayed on screen: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:29:20] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:29:20] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:29:21] [ INFO] [LoginPage.java:enterText_UserNameTextField:74] - Enter username in the text field: standard_user
+[2023-01-25] [08:29:21] [ INFO] [MobileActions.java:waitFor_ElementAndType:140] - Type in element: Located by By.chained({By.AccessibilityId: test-Username}) text: standard_user
+[2023-01-25] [08:29:21] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Username})
+[2023-01-25] [08:29:21] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:29:22] [ INFO] [LoginPage.java:enterText_PasswordTextField:85] - Enter password in the text field: secret_sauce
+[2023-01-25] [08:29:22] [ INFO] [MobileActions.java:typeOn_Element:120] - Type in element: Located by By.chained({By.AccessibilityId: test-Password}) text: secret_sauce
+[2023-01-25] [08:29:23] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:29:27] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-01-25] [08:29:27] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-01-25] [08:29:27] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:29:27] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-LOGOUT})
+[2023-01-25] [08:29:27] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-LOGOUT})
+[2023-01-25] [08:29:27] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:29:55] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-01-25] [08:30:01] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-01-25] [08:30:01] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-01-25] [08:30:01] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-01-25] [08:30:02] [ INFO] [MobileActions.java:waitFor_ElementToBeDisplayed:165] - Waiting and validating isElementDisplayed on screen: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:30:02] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:30:02] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:30:03] [ INFO] [LoginPage.java:enterText_UserNameTextField:74] - Enter username in the text field: standard_user
+[2023-01-25] [08:30:03] [ INFO] [MobileActions.java:waitFor_ElementAndType:140] - Type in element: Located by By.chained({By.AccessibilityId: test-Username}) text: standard_user
+[2023-01-25] [08:30:03] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Username})
+[2023-01-25] [08:30:03] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:30:03] [ INFO] [LoginPage.java:enterText_PasswordTextField:85] - Enter password in the text field: secret_sauce
+[2023-01-25] [08:30:03] [ INFO] [MobileActions.java:typeOn_Element:120] - Type in element: Located by By.chained({By.AccessibilityId: test-Password}) text: secret_sauce
+[2023-01-25] [08:30:04] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:30:08] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-01-25] [08:30:08] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-01-25] [08:30:08] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:30:09] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-LOGOUT})
+[2023-01-25] [08:30:09] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-LOGOUT})
+[2023-01-25] [08:30:09] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:32:06] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-01-25] [08:32:11] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-01-25] [08:32:11] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-01-25] [08:32:11] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-01-25] [08:32:11] [ INFO] [MobileActions.java:waitFor_ElementToBeDisplayed:165] - Waiting and validating isElementDisplayed on screen: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:32:11] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:32:11] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:32:12] [ INFO] [LoginPage.java:enterText_UserNameTextField:74] - Enter username in the text field: standard_user
+[2023-01-25] [08:32:12] [ INFO] [MobileActions.java:waitFor_ElementAndType:140] - Type in element: Located by By.chained({By.AccessibilityId: test-Username}) text: standard_user
+[2023-01-25] [08:32:12] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Username})
+[2023-01-25] [08:32:12] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:32:13] [ INFO] [LoginPage.java:enterText_PasswordTextField:85] - Enter password in the text field: secret_sauce
+[2023-01-25] [08:32:13] [ INFO] [MobileActions.java:typeOn_Element:120] - Type in element: Located by By.chained({By.AccessibilityId: test-Password}) text: secret_sauce
+[2023-01-25] [08:32:14] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:32:20] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-01-25] [08:32:20] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-01-25] [08:32:20] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:32:20] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-LOGOUT})
+[2023-01-25] [08:32:20] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-LOGOUT})
+[2023-01-25] [08:32:20] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:32:51] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-01-25] [08:32:56] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-01-25] [08:32:56] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-01-25] [08:32:56] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-01-25] [08:32:56] [ INFO] [MobileActions.java:waitFor_ElementToBeDisplayed:165] - Waiting and validating isElementDisplayed on screen: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:32:56] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:32:56] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:32:57] [ INFO] [LoginPage.java:enterText_UserNameTextField:74] - Enter username in the text field: standard_user
+[2023-01-25] [08:32:57] [ INFO] [MobileActions.java:waitFor_ElementAndType:140] - Type in element: Located by By.chained({By.AccessibilityId: test-Username}) text: standard_user
+[2023-01-25] [08:32:57] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Username})
+[2023-01-25] [08:32:57] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:32:58] [ INFO] [LoginPage.java:enterText_PasswordTextField:85] - Enter password in the text field: secret_sauce
+[2023-01-25] [08:32:58] [ INFO] [MobileActions.java:typeOn_Element:120] - Type in element: Located by By.chained({By.AccessibilityId: test-Password}) text: secret_sauce
+[2023-01-25] [08:32:59] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:33:05] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-01-25] [08:33:05] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-01-25] [08:33:05] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:33:05] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-LOGOUT})
+[2023-01-25] [08:33:05] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-LOGOUT})
+[2023-01-25] [08:33:05] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:34:06] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-01-25] [08:34:49] [ INFO] [MobileActions.java:initMobileDriver:38] - IOS driver initialized
+[2023-01-25] [08:34:49] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-01-25] [08:34:49] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-01-25] [08:34:49] [ INFO] [MobileActions.java:waitFor_ElementToBeDisplayed:165] - Waiting and validating isElementDisplayed on screen: Located by By.chained({By.AccessibilityId: test-LOGIN})
+[2023-01-25] [08:34:49] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-LOGIN})
+[2023-01-25] [08:34:49] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:34:50] [ INFO] [LoginPage.java:enterText_UserNameTextField:74] - Enter username in the text field: standard_user
+[2023-01-25] [08:34:50] [ INFO] [MobileActions.java:waitFor_ElementAndType:140] - Type in element: Located by By.chained({By.AccessibilityId: test-Username}) text: standard_user
+[2023-01-25] [08:34:50] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Username})
+[2023-01-25] [08:34:50] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:34:54] [ INFO] [LoginPage.java:enterText_PasswordTextField:85] - Enter password in the text field: secret_sauce
+[2023-01-25] [08:34:54] [ INFO] [MobileActions.java:typeOn_Element:120] - Type in element: Located by By.chained({By.AccessibilityId: test-Password}) text: secret_sauce
+[2023-01-25] [08:34:57] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.AccessibilityId: test-LOGIN})
+[2023-01-25] [08:35:26] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-01-25] [08:35:33] [ INFO] [MobileActions.java:initMobileDriver:38] - IOS driver initialized
+[2023-01-25] [08:35:33] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-01-25] [08:35:33] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-01-25] [08:35:34] [ INFO] [MobileActions.java:waitFor_ElementToBeDisplayed:165] - Waiting and validating isElementDisplayed on screen: Located by By.chained({By.AccessibilityId: test-LOGIN})
+[2023-01-25] [08:35:34] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-LOGIN})
+[2023-01-25] [08:35:34] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:35:35] [ INFO] [LoginPage.java:enterText_UserNameTextField:74] - Enter username in the text field: standard_user
+[2023-01-25] [08:35:35] [ INFO] [MobileActions.java:waitFor_ElementAndType:140] - Type in element: Located by By.chained({By.AccessibilityId: test-Username}) text: standard_user
+[2023-01-25] [08:35:35] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Username})
+[2023-01-25] [08:35:35] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:35:39] [ INFO] [LoginPage.java:enterText_PasswordTextField:85] - Enter password in the text field: secret_sauce
+[2023-01-25] [08:35:39] [ INFO] [MobileActions.java:typeOn_Element:120] - Type in element: Located by By.chained({By.AccessibilityId: test-Password}) text: secret_sauce
+[2023-01-25] [08:35:42] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.AccessibilityId: test-LOGIN})
+[2023-01-25] [08:36:25] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-01-25] [08:36:28] [ INFO] [MobileActions.java:initMobileDriver:38] - IOS driver initialized
+[2023-01-25] [08:36:28] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-01-25] [08:36:28] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-01-25] [08:36:29] [ INFO] [MobileActions.java:waitFor_ElementToBeDisplayed:165] - Waiting and validating isElementDisplayed on screen: Located by By.chained({By.AccessibilityId: test-LOGIN})
+[2023-01-25] [08:36:29] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-LOGIN})
+[2023-01-25] [08:36:29] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:36:49] [ INFO] [LoginPage.java:enterText_UserNameTextField:74] - Enter username in the text field: standard_user
+[2023-01-25] [08:36:49] [ INFO] [MobileActions.java:waitFor_ElementAndType:140] - Type in element: Located by By.chained({By.AccessibilityId: test-Username}) text: standard_user
+[2023-01-25] [08:36:49] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Username})
+[2023-01-25] [08:36:49] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:36:52] [ INFO] [LoginPage.java:enterText_PasswordTextField:85] - Enter password in the text field: secret_sauce
+[2023-01-25] [08:36:52] [ INFO] [MobileActions.java:typeOn_Element:120] - Type in element: Located by By.chained({By.AccessibilityId: test-Password}) text: secret_sauce
+[2023-01-25] [08:36:55] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.AccessibilityId: test-LOGIN})
+[2023-01-25] [08:42:01] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-01-25] [08:42:07] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-01-25] [08:42:07] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-01-25] [08:42:07] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-01-25] [08:42:07] [ INFO] [MobileActions.java:waitFor_ElementToBeDisplayed:165] - Waiting and validating isElementDisplayed on screen: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:42:07] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:42:07] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:42:08] [ INFO] [LoginPage.java:enterText_UserNameTextField:74] - Enter username in the text field: standard_user
+[2023-01-25] [08:42:08] [ INFO] [MobileActions.java:waitFor_ElementAndType:140] - Type in element: Located by By.chained({By.AccessibilityId: test-Username}) text: standard_user
+[2023-01-25] [08:42:08] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Username})
+[2023-01-25] [08:42:08] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:42:09] [ INFO] [LoginPage.java:enterText_PasswordTextField:85] - Enter password in the text field: secret_sauce
+[2023-01-25] [08:42:09] [ INFO] [MobileActions.java:typeOn_Element:120] - Type in element: Located by By.chained({By.AccessibilityId: test-Password}) text: secret_sauce
+[2023-01-25] [08:42:10] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:43:04] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-01-25] [08:43:10] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-01-25] [08:43:10] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-01-25] [08:43:10] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-01-25] [08:43:10] [ INFO] [MobileActions.java:waitFor_ElementToBeDisplayed:165] - Waiting and validating isElementDisplayed on screen: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:43:10] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:43:10] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:43:11] [ INFO] [LoginPage.java:enterText_UserNameTextField:74] - Enter username in the text field: standard_user
+[2023-01-25] [08:43:11] [ INFO] [MobileActions.java:waitFor_ElementAndType:140] - Type in element: Located by By.chained({By.AccessibilityId: test-Username}) text: standard_user
+[2023-01-25] [08:43:11] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Username})
+[2023-01-25] [08:43:11] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:43:12] [ INFO] [LoginPage.java:enterText_PasswordTextField:85] - Enter password in the text field: secret_sauce
+[2023-01-25] [08:43:12] [ INFO] [MobileActions.java:typeOn_Element:120] - Type in element: Located by By.chained({By.AccessibilityId: test-Password}) text: secret_sauce
+[2023-01-25] [08:43:13] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:44:38] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-01-25] [08:44:45] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-01-25] [08:44:45] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-01-25] [08:44:45] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-01-25] [08:44:45] [ INFO] [MobileActions.java:waitFor_ElementToBeDisplayed:165] - Waiting and validating isElementDisplayed on screen: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:44:45] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:44:45] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:44:46] [ INFO] [LoginPage.java:enterText_UserNameTextField:74] - Enter username in the text field: standard_user
+[2023-01-25] [08:44:46] [ INFO] [MobileActions.java:waitFor_ElementAndType:140] - Type in element: Located by By.chained({By.AccessibilityId: test-Username}) text: standard_user
+[2023-01-25] [08:44:46] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Username})
+[2023-01-25] [08:44:46] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:44:47] [ INFO] [LoginPage.java:enterText_PasswordTextField:85] - Enter password in the text field: secret_sauce
+[2023-01-25] [08:44:47] [ INFO] [MobileActions.java:typeOn_Element:120] - Type in element: Located by By.chained({By.AccessibilityId: test-Password}) text: secret_sauce
+[2023-01-25] [08:44:48] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:44:54] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-01-25] [08:44:54] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-01-25] [08:44:54] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:44:54] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-LOGOUT})
+[2023-01-25] [08:44:54] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-LOGOUT})
+[2023-01-25] [08:44:54] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:46:04] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-01-25] [08:46:10] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-01-25] [08:46:10] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-01-25] [08:46:10] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-01-25] [08:46:10] [ INFO] [MobileActions.java:waitFor_ElementToBeDisplayed:165] - Waiting and validating isElementDisplayed on screen: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:46:10] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:46:10] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:46:11] [ INFO] [LoginPage.java:enterText_UserNameTextField:74] - Enter username in the text field: standard_user
+[2023-01-25] [08:46:11] [ INFO] [MobileActions.java:waitFor_ElementAndType:140] - Type in element: Located by By.chained({By.AccessibilityId: test-Username}) text: standard_user
+[2023-01-25] [08:46:11] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Username})
+[2023-01-25] [08:46:11] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:46:11] [ INFO] [LoginPage.java:enterText_PasswordTextField:85] - Enter password in the text field: secret_sauce
+[2023-01-25] [08:46:11] [ INFO] [MobileActions.java:typeOn_Element:120] - Type in element: Located by By.chained({By.AccessibilityId: test-Password}) text: secret_sauce
+[2023-01-25] [08:46:13] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-01-25] [08:46:20] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-01-25] [08:46:20] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-01-25] [08:46:20] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:46:20] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-LOGOUT})
+[2023-01-25] [08:46:20] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-LOGOUT})
+[2023-01-25] [08:46:20] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:47:03] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-01-25] [08:47:21] [ INFO] [MobileActions.java:initMobileDriver:38] - IOS driver initialized
+[2023-01-25] [08:47:21] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-01-25] [08:47:21] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-01-25] [08:47:21] [ INFO] [MobileActions.java:waitFor_ElementToBeDisplayed:165] - Waiting and validating isElementDisplayed on screen: Located by By.chained({By.AccessibilityId: test-LOGIN})
+[2023-01-25] [08:47:21] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-LOGIN})
+[2023-01-25] [08:47:21] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:47:22] [ INFO] [LoginPage.java:enterText_UserNameTextField:74] - Enter username in the text field: standard_user
+[2023-01-25] [08:47:22] [ INFO] [MobileActions.java:waitFor_ElementAndType:140] - Type in element: Located by By.chained({By.AccessibilityId: test-Username}) text: standard_user
+[2023-01-25] [08:47:22] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Username})
+[2023-01-25] [08:47:22] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:47:27] [ INFO] [LoginPage.java:enterText_PasswordTextField:85] - Enter password in the text field: secret_sauce
+[2023-01-25] [08:47:27] [ INFO] [MobileActions.java:typeOn_Element:120] - Type in element: Located by By.chained({By.AccessibilityId: test-Password}) text: secret_sauce
+[2023-01-25] [08:47:30] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.AccessibilityId: test-LOGIN})
+[2023-01-25] [08:47:38] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-01-25] [08:47:38] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-01-25] [08:47:38] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-01-25] [08:47:41] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-LOGOUT})
+[2023-01-25] [08:47:41] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-LOGOUT})
+[2023-01-25] [08:47:41] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object

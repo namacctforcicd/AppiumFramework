@@ -1,0 +1,254 @@
+[2023-02-08] [14:45:06] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-08] [14:47:38] [ INFO] [MobileActions.java:initMobileDriver:38] - IOS driver initialized
+[2023-02-08] [14:47:39] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-08] [14:47:40] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/Downloads/WilliamsMTAF/output/reports/screenshots/2023_02_08_14_47_39.png
+[2023-02-08] [14:47:40] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-02-08] [14:47:40] [ INFO] [MobileActions.java:getElementTextByAttribute:178] - Get element text by attribute 'label': Located by By.chained({By.AccessibilityId: test-LOGIN})
+[2023-02-08] [14:47:41] [ INFO] [LoginPage.java:getTextFrom_LoginButton:129] - Get text on LOGIN button: LOGIN
+[2023-02-08] [14:47:41] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/Downloads/WilliamsMTAF/output/reports/screenshots/2023_02_08_14_47_41.png
+[2023-02-08] [14:47:41] [ INFO] [LoginPage.java:enterText_UserNameTextField:74] - Enter username in the text field: standard_user
+[2023-02-08] [14:47:41] [ INFO] [MobileActions.java:waitFor_ElementAndType:140] - Type in element: Located by By.chained({By.AccessibilityId: test-Username}) text: standard_user
+[2023-02-08] [14:47:41] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Username})
+[2023-02-08] [14:47:41] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-08] [14:47:48] [ INFO] [LoginPage.java:enterText_PasswordTextField:85] - Enter password in the text field: secret_sauce
+[2023-02-08] [14:47:48] [ INFO] [MobileActions.java:typeOn_Element:120] - Type in element: Located by By.chained({By.AccessibilityId: test-Password}) text: secret_sauce
+[2023-02-08] [14:47:51] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.AccessibilityId: test-LOGIN})
+[2023-02-08] [14:47:53] [ INFO] [HomePage.java:tapOn_FilterIcon:54] - Tap on filter icon
+[2023-02-08] [14:47:53] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-Modal Selector Button})
+[2023-02-08] [14:47:53] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Modal Selector Button})
+[2023-02-08] [14:47:53] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-08] [14:47:59] [ INFO] [MobileActions.java:tapOn_Element:105] - Tap on element by: By.xpath: //XCUIElementTypeOther[@label='Price (high to low)']
+[2023-02-08] [14:48:04] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-08] [14:48:05] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-08] [14:48:06] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-08] [14:48:07] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-08] [14:48:07] [ INFO] [HomePage.java:tapOn_AddToCartItem:49] - Select the item Sauce Labs Backpack
+[2023-02-08] [14:48:07] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.xpath: (//XCUIElementTypeOther[@name="test-ADD TO CART"])[1]})
+[2023-02-08] [14:48:14] [ INFO] [MobileActions.java:swipeDownTo_Element:329] - Element is visible: Located by By.chained({By.AccessibilityId: test-Cart})
+[2023-02-08] [14:48:14] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.AccessibilityId: test-Cart})
+[2023-02-08] [14:48:16] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-02-08] [14:48:16] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-02-08] [14:48:16] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-08] [14:48:20] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/Downloads/WilliamsMTAF/output/reports/screenshots/2023_02_08_14_48_19.png
+[2023-02-08] [14:48:20] [ INFO] [MobileActions.java:tapOn_Element:105] - Tap on element by: By.xpath: //XCUIElementTypeOther[@label='LOGOUT']
+[2023-02-08] [14:48:23] [ INFO] [MobileActions.java:waitFor_ElementToBeDisplayed:165] - Waiting and validating isElementDisplayed on screen: Located by By.chained({By.AccessibilityId: test-LOGIN})
+[2023-02-08] [14:48:23] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-LOGIN})
+[2023-02-08] [14:48:23] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-08] [14:48:26] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/Downloads/WilliamsMTAF/output/reports/screenshots/2023_02_08_14_48_26.png
+[2023-02-08] [14:48:26] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-08] [14:48:37] [ INFO] [MobileActions.java:initMobileDriver:38] - IOS driver initialized
+[2023-02-08] [14:48:37] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-08] [14:48:37] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/Downloads/WilliamsMTAF/output/reports/screenshots/2023_02_08_14_48_37.png
+[2023-02-08] [14:48:37] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-02-08] [14:48:37] [ INFO] [MobileActions.java:getElementTextByAttribute:178] - Get element text by attribute 'label': Located by By.chained({By.AccessibilityId: test-LOGIN})
+[2023-02-08] [14:48:38] [ INFO] [LoginPage.java:getTextFrom_LoginButton:129] - Get text on LOGIN button: LOGIN
+[2023-02-08] [14:48:38] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/Downloads/WilliamsMTAF/output/reports/screenshots/2023_02_08_14_48_38.png
+[2023-02-08] [14:48:38] [ INFO] [LoginPage.java:enterText_UserNameTextField:74] - Enter username in the text field: standard_user
+[2023-02-08] [14:48:38] [ INFO] [MobileActions.java:waitFor_ElementAndType:140] - Type in element: Located by By.chained({By.AccessibilityId: test-Username}) text: standard_user
+[2023-02-08] [14:48:38] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Username})
+[2023-02-08] [14:48:38] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-08] [14:48:43] [ INFO] [LoginPage.java:enterText_PasswordTextField:85] - Enter password in the text field: secret_sauce
+[2023-02-08] [14:48:43] [ INFO] [MobileActions.java:typeOn_Element:120] - Type in element: Located by By.chained({By.AccessibilityId: test-Password}) text: secret_sauce
+[2023-02-08] [14:48:45] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.AccessibilityId: test-LOGIN})
+[2023-02-08] [14:48:46] [ INFO] [HomePage.java:tapOn_FilterIcon:54] - Tap on filter icon
+[2023-02-08] [14:48:46] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-Modal Selector Button})
+[2023-02-08] [14:48:46] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Modal Selector Button})
+[2023-02-08] [14:48:46] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-08] [14:48:54] [ INFO] [MobileActions.java:tapOn_Element:105] - Tap on element by: By.xpath: //XCUIElementTypeOther[@label='Price (high to low)']
+[2023-02-08] [14:49:00] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-08] [14:49:01] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-08] [14:49:02] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-08] [14:49:03] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-08] [14:49:03] [ INFO] [HomePage.java:tapOn_AddToCartItem:49] - Select the item Sauce Labs Backpack
+[2023-02-08] [14:49:03] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.xpath: (//XCUIElementTypeOther[@name="test-ADD TO CART"])[1]})
+[2023-02-08] [14:49:10] [ INFO] [MobileActions.java:swipeDownTo_Element:329] - Element is visible: Located by By.chained({By.AccessibilityId: test-Cart})
+[2023-02-08] [14:49:10] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.AccessibilityId: test-Cart})
+[2023-02-08] [14:49:12] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-02-08] [14:49:12] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-02-08] [14:49:12] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-08] [14:49:17] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/Downloads/WilliamsMTAF/output/reports/screenshots/2023_02_08_14_49_16.png
+[2023-02-08] [14:49:17] [ INFO] [MobileActions.java:tapOn_Element:105] - Tap on element by: By.xpath: //XCUIElementTypeOther[@label='LOGOUT']
+[2023-02-08] [14:49:20] [ INFO] [MobileActions.java:waitFor_ElementToBeDisplayed:165] - Waiting and validating isElementDisplayed on screen: Located by By.chained({By.AccessibilityId: test-LOGIN})
+[2023-02-08] [14:49:20] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-LOGIN})
+[2023-02-08] [14:49:20] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-08] [14:49:24] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/Downloads/WilliamsMTAF/output/reports/screenshots/2023_02_08_14_49_23.png
+[2023-02-08] [15:22:16] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-08] [15:24:24] [ERROR] [MobileActions.java:getAppiumDriver:55] - appium driver is null, please call 'initMobileDriver' method to initialize it
+[2023-02-08] [15:28:44] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-08] [15:29:08] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-02-08] [15:29:08] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-08] [15:29:09] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/Downloads/WilliamsMTAF/output/reports/screenshots/2023_02_08_15_29_08.png
+[2023-02-08] [15:29:09] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-02-08] [15:29:10] [ INFO] [MobileActions.java:getElementTextByAttribute:178] - Get element text by attribute 'text': Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-02-08] [15:29:12] [ INFO] [LoginPage.java:getTextFrom_LoginButton:129] - Get text on LOGIN button: LOGIN
+[2023-02-08] [15:29:14] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/Downloads/WilliamsMTAF/output/reports/screenshots/2023_02_08_15_29_12.png
+[2023-02-08] [15:29:14] [ INFO] [LoginPage.java:enterText_UserNameTextField:74] - Enter username in the text field: standard_user
+[2023-02-08] [15:29:14] [ INFO] [MobileActions.java:waitFor_ElementAndType:140] - Type in element: Located by By.chained({By.AccessibilityId: test-Username}) text: standard_user
+[2023-02-08] [15:29:14] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Username})
+[2023-02-08] [15:29:14] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-08] [15:29:15] [ INFO] [LoginPage.java:enterText_PasswordTextField:85] - Enter password in the text field: secret_sauce
+[2023-02-08] [15:29:15] [ INFO] [MobileActions.java:typeOn_Element:120] - Type in element: Located by By.chained({By.AccessibilityId: test-Password}) text: secret_sauce
+[2023-02-08] [15:29:16] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-02-08] [15:29:16] [ INFO] [HomePage.java:tapOn_FilterIcon:54] - Tap on filter icon
+[2023-02-08] [15:29:16] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-Toggle})
+[2023-02-08] [15:29:16] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Toggle})
+[2023-02-08] [15:29:16] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-08] [15:29:21] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-08] [15:29:22] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-08] [15:29:23] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-08] [15:29:24] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-08] [15:29:24] [ INFO] [HomePage.java:tapOn_AddToCartItem:49] - Select the item Sauce Labs Backpack
+[2023-02-08] [15:29:24] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.xpath: (//android.view.ViewGroup[@content-desc="test-ADD TO CART"])})
+[2023-02-08] [15:29:25] [ INFO] [MobileActions.java:swipeDownTo_Element:329] - Element is visible: Located by By.chained({By.AccessibilityId: test-Cart})
+[2023-02-08] [15:29:25] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.AccessibilityId: test-Cart})
+[2023-02-08] [15:29:26] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-02-08] [15:29:26] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-02-08] [15:29:26] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-08] [15:29:30] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/Downloads/WilliamsMTAF/output/reports/screenshots/2023_02_08_15_29_26.png
+[2023-02-08] [15:29:30] [ INFO] [MobileActions.java:waitFor_ElementToBeDisplayed:165] - Waiting and validating isElementDisplayed on screen: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-02-08] [15:29:30] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-02-08] [15:29:30] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-08] [15:34:37] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/Downloads/WilliamsMTAF/output/reports/screenshots/2023_02_08_15_34_35.png
+[2023-02-08] [15:34:37] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-08] [15:41:52] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-08] [15:42:14] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-02-08] [15:42:14] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-08] [15:42:16] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/Downloads/WilliamsMTAF/output/reports/screenshots/2023_02_08_15_42_14.png
+[2023-02-08] [15:42:16] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-02-08] [15:42:16] [ INFO] [MobileActions.java:getElementTextByAttribute:178] - Get element text by attribute 'text': Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-02-08] [15:42:19] [ INFO] [LoginPage.java:getTextFrom_LoginButton:129] - Get text on LOGIN button: LOGIN
+[2023-02-08] [15:42:21] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/Downloads/WilliamsMTAF/output/reports/screenshots/2023_02_08_15_42_19.png
+[2023-02-08] [15:42:21] [ INFO] [LoginPage.java:enterText_UserNameTextField:74] - Enter username in the text field: standard_user
+[2023-02-08] [15:42:21] [ INFO] [MobileActions.java:waitFor_ElementAndType:140] - Type in element: Located by By.chained({By.AccessibilityId: test-Username}) text: standard_user
+[2023-02-08] [15:42:21] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Username})
+[2023-02-08] [15:42:21] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-08] [15:42:22] [ INFO] [LoginPage.java:enterText_PasswordTextField:85] - Enter password in the text field: secret_sauce
+[2023-02-08] [15:42:22] [ INFO] [MobileActions.java:typeOn_Element:120] - Type in element: Located by By.chained({By.AccessibilityId: test-Password}) text: secret_sauce
+[2023-02-08] [15:42:23] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-02-08] [15:42:24] [ INFO] [HomePage.java:tapOn_FilterIcon:54] - Tap on filter icon
+[2023-02-08] [15:42:24] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-Toggle})
+[2023-02-08] [15:42:24] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Toggle})
+[2023-02-08] [15:42:24] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-08] [15:42:29] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-08] [15:42:30] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-08] [15:42:31] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-08] [15:42:32] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-08] [15:42:32] [ INFO] [HomePage.java:tapOn_AddToCartItem:49] - Select the item Sauce Labs Backpack
+[2023-02-08] [15:42:32] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.xpath: (//android.view.ViewGroup[@content-desc="test-ADD TO CART"])})
+[2023-02-08] [15:42:33] [ INFO] [MobileActions.java:swipeDownTo_Element:329] - Element is visible: Located by By.chained({By.AccessibilityId: test-Cart})
+[2023-02-08] [15:42:33] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.AccessibilityId: test-Cart})
+[2023-02-08] [15:42:34] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-02-08] [15:42:34] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-02-08] [15:42:34] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-08] [15:42:39] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/Downloads/WilliamsMTAF/output/reports/screenshots/2023_02_08_15_42_35.png
+[2023-02-08] [15:42:42] [ INFO] [MobileActions.java:waitFor_ElementToBeDisplayed:165] - Waiting and validating isElementDisplayed on screen: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-02-08] [15:42:42] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-02-08] [15:42:42] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-08] [15:54:11] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-08] [15:54:31] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-02-08] [15:54:31] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-08] [15:54:33] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/Downloads/WilliamsMTAF/output/reports/screenshots/2023_02_08_15_54_31.png
+[2023-02-08] [15:54:33] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-02-08] [15:54:33] [ INFO] [MobileActions.java:getElementTextByAttribute:178] - Get element text by attribute 'text': Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-02-08] [15:54:36] [ INFO] [LoginPage.java:getTextFrom_LoginButton:129] - Get text on LOGIN button: LOGIN
+[2023-02-08] [15:54:37] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/Downloads/WilliamsMTAF/output/reports/screenshots/2023_02_08_15_54_36.png
+[2023-02-08] [15:54:37] [ INFO] [LoginPage.java:enterText_UserNameTextField:74] - Enter username in the text field: standard_user
+[2023-02-08] [15:54:37] [ INFO] [MobileActions.java:waitFor_ElementAndType:140] - Type in element: Located by By.chained({By.AccessibilityId: test-Username}) text: standard_user
+[2023-02-08] [15:54:37] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Username})
+[2023-02-08] [15:54:37] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-08] [15:54:38] [ INFO] [LoginPage.java:enterText_PasswordTextField:85] - Enter password in the text field: secret_sauce
+[2023-02-08] [15:54:38] [ INFO] [MobileActions.java:typeOn_Element:120] - Type in element: Located by By.chained({By.AccessibilityId: test-Password}) text: secret_sauce
+[2023-02-08] [15:54:39] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-02-08] [15:54:40] [ INFO] [HomePage.java:tapOn_FilterIcon:54] - Tap on filter icon
+[2023-02-08] [15:54:40] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-Toggle})
+[2023-02-08] [15:54:40] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Toggle})
+[2023-02-08] [15:54:40] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-08] [15:54:45] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-08] [15:54:46] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-08] [15:54:47] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-08] [15:54:48] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-08] [15:54:48] [ INFO] [HomePage.java:tapOn_AddToCartItem:49] - Select the item Sauce Labs Backpack
+[2023-02-08] [15:54:48] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.xpath: (//android.view.ViewGroup[@content-desc="test-ADD TO CART"])})
+[2023-02-08] [15:54:49] [ INFO] [MobileActions.java:swipeDownTo_Element:329] - Element is visible: Located by By.chained({By.AccessibilityId: test-Cart})
+[2023-02-08] [15:54:49] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.AccessibilityId: test-Cart})
+[2023-02-08] [15:54:50] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-02-08] [15:54:50] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-02-08] [15:54:50] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-08] [15:54:56] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/Downloads/WilliamsMTAF/output/reports/screenshots/2023_02_08_15_54_51.png
+[2023-02-08] [15:54:59] [ INFO] [MobileActions.java:waitFor_ElementToBeDisplayed:165] - Waiting and validating isElementDisplayed on screen: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-02-08] [15:54:59] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-02-08] [15:54:59] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-08] [16:57:12] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-08] [16:57:34] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-02-08] [16:57:34] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-08] [16:57:35] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/Downloads/WilliamsMTAF/output/reports/screenshots/2023_02_08_16_57_34.png
+[2023-02-08] [16:57:35] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-02-08] [16:57:36] [ INFO] [MobileActions.java:getElementTextByAttribute:178] - Get element text by attribute 'text': Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-02-08] [16:57:37] [ INFO] [LoginPage.java:getTextFrom_LoginButton:129] - Get text on LOGIN button: LOGIN
+[2023-02-08] [16:57:39] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/Downloads/WilliamsMTAF/output/reports/screenshots/2023_02_08_16_57_37.png
+[2023-02-08] [16:57:39] [ INFO] [LoginPage.java:enterText_UserNameTextField:74] - Enter username in the text field: standard_user
+[2023-02-08] [16:57:39] [ INFO] [MobileActions.java:waitFor_ElementAndType:140] - Type in element: Located by By.chained({By.AccessibilityId: test-Username}) text: standard_user
+[2023-02-08] [16:57:39] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Username})
+[2023-02-08] [16:57:39] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-08] [16:57:39] [ INFO] [LoginPage.java:enterText_PasswordTextField:85] - Enter password in the text field: secret_sauce
+[2023-02-08] [16:57:39] [ INFO] [MobileActions.java:typeOn_Element:120] - Type in element: Located by By.chained({By.AccessibilityId: test-Password}) text: secret_sauce
+[2023-02-08] [16:57:40] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-02-08] [16:57:41] [ INFO] [HomePage.java:tapOn_FilterIcon:54] - Tap on filter icon
+[2023-02-08] [16:57:41] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-Toggle})
+[2023-02-08] [16:57:41] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Toggle})
+[2023-02-08] [16:57:41] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-08] [16:57:45] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-08] [16:57:46] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-08] [16:57:47] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-08] [16:57:48] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-08] [16:57:48] [ INFO] [HomePage.java:tapOn_AddToCartItem:49] - Select the item Sauce Labs Backpack
+[2023-02-08] [16:57:48] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.xpath: (//android.view.ViewGroup[@content-desc="test-ADD TO CART"])})
+[2023-02-08] [16:57:49] [ INFO] [MobileActions.java:swipeDownTo_Element:329] - Element is visible: Located by By.chained({By.AccessibilityId: test-Cart})
+[2023-02-08] [16:57:49] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.AccessibilityId: test-Cart})
+[2023-02-08] [16:57:49] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-02-08] [16:57:49] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-02-08] [16:57:49] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-08] [16:57:53] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/Downloads/WilliamsMTAF/output/reports/screenshots/2023_02_08_16_57_50.png
+[2023-02-08] [16:57:56] [ INFO] [MobileActions.java:waitFor_ElementToBeDisplayed:165] - Waiting and validating isElementDisplayed on screen: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-02-08] [16:57:56] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-02-08] [16:57:56] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-08] [21:26:16] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-08] [21:26:23] [ERROR] [MobileActions.java:getAppiumDriver:55] - appium driver is null, please call 'initMobileDriver' method to initialize it
+[2023-02-08] [21:27:06] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-08] [21:27:08] [ERROR] [MobileActions.java:getAppiumDriver:55] - appium driver is null, please call 'initMobileDriver' method to initialize it
+[2023-02-08] [21:31:59] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-08] [21:34:05] [ERROR] [MobileActions.java:getAppiumDriver:55] - appium driver is null, please call 'initMobileDriver' method to initialize it
+[2023-02-08] [23:00:02] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-08] [23:00:11] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-02-08] [23:00:11] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-08] [23:00:12] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/Downloads/WilliamsMTAF/output/reports/screenshots/2023_02_08_23_00_12.png
+[2023-02-08] [23:00:12] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-02-08] [23:00:13] [ INFO] [MobileActions.java:getElementTextByAttribute:178] - Get element text by attribute 'text': Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-02-08] [23:00:14] [ INFO] [LoginPage.java:getTextFrom_LoginButton:129] - Get text on LOGIN button: LOGIN
+[2023-02-08] [23:00:14] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/Downloads/WilliamsMTAF/output/reports/screenshots/2023_02_08_23_00_14.png
+[2023-02-08] [23:00:14] [ INFO] [LoginPage.java:enterText_UserNameTextField:74] - Enter username in the text field: standard_user
+[2023-02-08] [23:00:14] [ INFO] [MobileActions.java:waitFor_ElementAndType:140] - Type in element: Located by By.chained({By.AccessibilityId: test-Username}) text: standard_user
+[2023-02-08] [23:00:14] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Username})
+[2023-02-08] [23:00:14] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-08] [23:00:15] [ INFO] [LoginPage.java:enterText_PasswordTextField:85] - Enter password in the text field: secret_sauce
+[2023-02-08] [23:00:15] [ INFO] [MobileActions.java:typeOn_Element:120] - Type in element: Located by By.chained({By.AccessibilityId: test-Password}) text: secret_sauce
+[2023-02-08] [23:00:16] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-02-08] [23:00:17] [ INFO] [HomePage.java:tapOn_FilterIcon:54] - Tap on filter icon
+[2023-02-08] [23:00:17] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-Toggle})
+[2023-02-08] [23:00:17] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Toggle})
+[2023-02-08] [23:00:17] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-08] [23:00:19] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 3 Seconds
+[2023-02-08] [23:00:20] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 2 Seconds
+[2023-02-08] [23:00:21] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 1 Seconds
+[2023-02-08] [23:00:22] [ INFO] [MobileActions.java:pauseExecutionForSeconds:318] - Test execution resume in: 0 Seconds
+[2023-02-08] [23:00:22] [ INFO] [HomePage.java:tapOn_AddToCartItem:49] - Select the item Sauce Labs Backpack
+[2023-02-08] [23:00:22] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.xpath: (//android.view.ViewGroup[@content-desc="test-ADD TO CART"])})
+[2023-02-08] [23:00:24] [ INFO] [MobileActions.java:swipeDownTo_Element:329] - Element is visible: Located by By.chained({By.AccessibilityId: test-Cart})
+[2023-02-08] [23:00:24] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.AccessibilityId: test-Cart})
+[2023-02-08] [23:00:24] [ INFO] [MobileActions.java:waitFor_ElementAndTap:110] - Tap on element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-02-08] [23:00:24] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Menu})
+[2023-02-08] [23:00:24] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-08] [23:00:27] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/Downloads/WilliamsMTAF/output/reports/screenshots/2023_02_08_23_00_26.png
+[2023-02-08] [23:00:33] [ INFO] [MobileActions.java:waitFor_ElementToBeDisplayed:165] - Waiting and validating isElementDisplayed on screen: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-02-08] [23:00:33] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-02-08] [23:00:33] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object

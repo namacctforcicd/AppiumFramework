@@ -1,0 +1,8 @@
+{
+  "platformName": "android",
+  "appium:automationName": "UIAutomator2",
+  "appium:deviceName": "ZD2224H2L8",
+  "browserName": "chrome",
+  "appium:platformVersion": "12",
+  "appWaitDuration": "30000"
+}

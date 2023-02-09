@@ -1,0 +1,73 @@
+[2023-02-09] [11:55:41] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-09] [11:55:56] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-02-09] [11:55:56] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-09] [11:55:56] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-02-09] [11:55:57] [ INFO] [LoginPage.java:enterText_UserNameTextField:74] - Enter username in the text field: james
+[2023-02-09] [11:55:57] [ INFO] [MobileActions.java:waitFor_ElementAndType:140] - Type in element: Located by By.chained({By.AccessibilityId: test-Username}) text: james
+[2023-02-09] [11:55:57] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Username})
+[2023-02-09] [11:55:57] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-09] [11:55:58] [ INFO] [LoginPage.java:enterText_PasswordTextField:85] - Enter password in the text field: pw1
+[2023-02-09] [11:55:58] [ INFO] [MobileActions.java:typeOn_Element:120] - Type in element: Located by By.chained({By.AccessibilityId: test-Password}) text: pw1
+[2023-02-09] [11:55:58] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-02-09] [11:55:59] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/IdeaProjects/WilliamsMTAF/output/reports/screenshots/2023_02_09_11_55_59.png
+[2023-02-09] [11:55:59] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-09] [11:56:07] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-02-09] [11:56:07] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-09] [11:56:07] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-02-09] [11:56:07] [ INFO] [LoginPage.java:enterText_UserNameTextField:74] - Enter username in the text field: magic
+[2023-02-09] [11:56:07] [ INFO] [MobileActions.java:waitFor_ElementAndType:140] - Type in element: Located by By.chained({By.AccessibilityId: test-Username}) text: magic
+[2023-02-09] [11:56:07] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Username})
+[2023-02-09] [11:56:07] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-09] [11:56:08] [ INFO] [LoginPage.java:enterText_PasswordTextField:85] - Enter password in the text field: kareem
+[2023-02-09] [11:56:08] [ INFO] [MobileActions.java:typeOn_Element:120] - Type in element: Located by By.chained({By.AccessibilityId: test-Password}) text: kareem
+[2023-02-09] [11:56:10] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-02-09] [11:56:11] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/IdeaProjects/WilliamsMTAF/output/reports/screenshots/2023_02_09_11_56_10.png
+[2023-02-09] [11:56:11] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-09] [11:56:18] [ INFO] [MobileActions.java:initMobileDriver:42] - Android driver initialized
+[2023-02-09] [11:56:18] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-09] [11:56:18] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-02-09] [11:56:18] [ INFO] [LoginPage.java:enterText_UserNameTextField:74] - Enter username in the text field: mike
+[2023-02-09] [11:56:18] [ INFO] [MobileActions.java:waitFor_ElementAndType:140] - Type in element: Located by By.chained({By.AccessibilityId: test-Username}) text: mike
+[2023-02-09] [11:56:18] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Username})
+[2023-02-09] [11:56:18] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-09] [11:56:20] [ INFO] [LoginPage.java:enterText_PasswordTextField:85] - Enter password in the text field: pw3
+[2023-02-09] [11:56:20] [ INFO] [MobileActions.java:typeOn_Element:120] - Type in element: Located by By.chained({By.AccessibilityId: test-Password}) text: pw3
+[2023-02-09] [11:56:21] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.xpath: //android.view.ViewGroup[@content-desc="test-LOGIN"]/android.widget.TextView})
+[2023-02-09] [11:56:22] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/IdeaProjects/WilliamsMTAF/output/reports/screenshots/2023_02_09_11_56_21.png
+[2023-02-09] [12:36:53] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-09] [13:28:31] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-09] [13:29:48] [ INFO] [MobileActions.java:initMobileDriver:38] - IOS driver initialized
+[2023-02-09] [13:29:49] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-09] [13:29:49] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-02-09] [13:29:49] [ INFO] [LoginPage.java:enterText_UserNameTextField:74] - Enter username in the text field: james
+[2023-02-09] [13:29:49] [ INFO] [MobileActions.java:waitFor_ElementAndType:140] - Type in element: Located by By.chained({By.AccessibilityId: test-Username}) text: james
+[2023-02-09] [13:29:49] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Username})
+[2023-02-09] [13:29:49] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-09] [13:29:57] [ INFO] [LoginPage.java:enterText_PasswordTextField:85] - Enter password in the text field: pw1
+[2023-02-09] [13:29:57] [ INFO] [MobileActions.java:typeOn_Element:120] - Type in element: Located by By.chained({By.AccessibilityId: test-Password}) text: pw1
+[2023-02-09] [13:29:58] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.AccessibilityId: test-LOGIN})
+[2023-02-09] [13:30:09] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/IdeaProjects/WilliamsMTAF/output/reports/screenshots/2023_02_09_13_30_03.png
+[2023-02-09] [13:30:09] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-09] [13:30:38] [ INFO] [MobileActions.java:initMobileDriver:38] - IOS driver initialized
+[2023-02-09] [13:30:40] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-09] [13:30:40] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-02-09] [13:30:40] [ INFO] [LoginPage.java:enterText_UserNameTextField:74] - Enter username in the text field: magic
+[2023-02-09] [13:30:40] [ INFO] [MobileActions.java:waitFor_ElementAndType:140] - Type in element: Located by By.chained({By.AccessibilityId: test-Username}) text: magic
+[2023-02-09] [13:30:40] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Username})
+[2023-02-09] [13:30:40] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-09] [13:30:44] [ INFO] [LoginPage.java:enterText_PasswordTextField:85] - Enter password in the text field: kareem
+[2023-02-09] [13:30:44] [ INFO] [MobileActions.java:typeOn_Element:120] - Type in element: Located by By.chained({By.AccessibilityId: test-Password}) text: kareem
+[2023-02-09] [13:30:46] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.AccessibilityId: test-LOGIN})
+[2023-02-09] [13:30:48] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/IdeaProjects/WilliamsMTAF/output/reports/screenshots/2023_02_09_13_30_47.png
+[2023-02-09] [13:30:48] [ INFO] [MobileActions.java:initMobileDriver:33] - Capabilities successfully initialized
+[2023-02-09] [13:31:14] [ INFO] [MobileActions.java:initMobileDriver:38] - IOS driver initialized
+[2023-02-09] [13:31:17] [ INFO] [MobileActions.java:initMobileDriver:50] - WebDriverWait 'wait' initialized with wait object
+[2023-02-09] [13:31:17] [ INFO] [LoginPage.java:<init>:65] - Initializing in the login page: 
+[2023-02-09] [13:31:17] [ INFO] [LoginPage.java:enterText_UserNameTextField:74] - Enter username in the text field: mike
+[2023-02-09] [13:31:17] [ INFO] [MobileActions.java:waitFor_ElementAndType:140] - Type in element: Located by By.chained({By.AccessibilityId: test-Username}) text: mike
+[2023-02-09] [13:31:17] [ INFO] [MobileActions.java:waitFor_ElementClickable:90] - Waiting for element: Located by By.chained({By.AccessibilityId: test-Username})
+[2023-02-09] [13:31:17] [ INFO] [MobileActions.java:getWebDriverWait:66] - Returned 'wait' object
+[2023-02-09] [13:31:20] [ INFO] [LoginPage.java:enterText_PasswordTextField:85] - Enter password in the text field: pw3
+[2023-02-09] [13:31:20] [ INFO] [MobileActions.java:typeOn_Element:120] - Type in element: Located by By.chained({By.AccessibilityId: test-Password}) text: pw3
+[2023-02-09] [13:31:22] [ INFO] [MobileActions.java:tapOn_Element:100] - Tap on element: Located by By.chained({By.AccessibilityId: test-LOGIN})
+[2023-02-09] [13:31:26] [ INFO] [MobileActions.java:takeScreenShot:238] - Screenshot successfully captured in this location: /Users/nnamdiwilliams/IdeaProjects/WilliamsMTAF/output/reports/screenshots/2023_02_09_13_31_23.png
